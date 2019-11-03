@@ -1,2 +1,2 @@
-Flask
-twilio
+Flask>0.1
+twilio>0.1
